@@ -53,3 +53,40 @@ a {
     background-color: #026e78;
     padding: 1rem 5rem;
 }
+
+.para {
+    display: flex;
+    flex-direction: column;
+    margin-top: 15rem;
+    margin-left: 20rem;
+}
+
+
+.essayer {
+    width: 35rem;
+    background-color: #026e78;
+    text-align: center;
+    padding: 0;
+    color: white;
+    font-size: 4rem;
+}
+
+.reservez {
+    width: 20rem;
+    background-color: white;
+    text-align: center;
+    padding: 0;
+    color: #2d99a4;
+    font-size: 2rem;
+    margin-top: 3rem;
+}
+
+.consultez {
+    width: 22rem;
+    background-color: #2d99a4;
+    text-align: center;
+    padding: 0;
+    color: white;
+    font-size: 2rem;
+    margin-top: 3rem;
+}
